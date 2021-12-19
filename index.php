@@ -11,10 +11,15 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"></script>
 
 </head>
-
-<body>
+<style>
+    .br{
+        background-color:cyan
+        }
+</style>
+<body class="br">
     <div class="container mt-5 col-4">
         <div class="container mx-auto">
+
             <p class="text-center h1">สภาพอากาศในพื้นที่ต่างๆ</p>
             <br />
             <div class="from-group mb-3 ">
