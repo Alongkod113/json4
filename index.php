@@ -16,7 +16,7 @@
         background-color: cyan
     }
 </style>
-<body>
+<body class="br">
     <div class="container mt-5 col-4">
         <div class="container mx-auto">
             <p class="text-center h1">สภาพอากาศ</p>
@@ -109,8 +109,6 @@
                 line += "<p class='card-text'>อาทิตย์ตกเวลา : " + sunset + "</p>";
                 line += "<p class='card-text'>เวลา : " + datetime + "</p>";
 
-
-
                 line += "</div>"
                 $("#cardWeather").append(line);
 
@@ -126,12 +124,6 @@
         return (hours + ':' + minutes.substr(-2) + ':' + seconds.substr(-2));
 
     }
-
-
-
-
-
-
 
 
     $(() => {
