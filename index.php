@@ -66,7 +66,7 @@
 
 
                 var line = "<div id='dataWeather'>";
-                line += "<img src='https://sites.google.com/site/nakhonsiwithfernguide/_/rsrc/1479389999349/wad-phra-mhathatu-wrmhawihar/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A3%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8.jpg' class='card-img-top' ><div class='card-body'>"
+                line += "<img src='https://www.77kaoded.com/wp-content/uploads/2020/10/1188729.jpg' class='card-img-top' ><div class='card-body'>"
                 line += "<h5 class='card-title my-3 '>" + place + "</h5>";
                 line += "<p class='card-text'>อุณหภูมิ : " + temp + "</p>";
                 line += "<p class='card-text'>ความชื้นสัมพัทธ์ : " + humid + "</p>";
@@ -101,7 +101,7 @@
                     }
                 })
                 var line = "<div id='dataWeather'>";
-                line += "<img src='https://cdn.pixabay.com/photo/2016/12/18/13/44/download-1915749_960_720.png' class='card-img-top' ><div class='card-body'>"
+                line += "<img src='https://mpics.mgronline.com/pics/Images/561000002001301.JPEG.webp' class='card-img-top' ><div class='card-body'>"
                 line += "<h5 class='card-title my-3'> " + place + "</h5>";
                 line += "<p class='card-text'>อุณหภูมิ : " + temp + "</p>";
                 line += "<p class='card-text'>ความชื้นสัมพัทธ์ : " + humid + "</p>";
