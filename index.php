@@ -10,9 +10,8 @@
     <div>
         <p> Line 1</p>
         <p> Line 2</p>
-        <div>
+        <div p {background-color: yellow;}>
             Line 3
-            div > div div p {background-color: yellow;}
         </div>
     </div>
     <p> Line 4</p>
