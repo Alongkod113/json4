@@ -10,7 +10,7 @@
     <div>
         <p> Line 1</p>
         <p> Line 2</p>
-        <div > div {background-color: yellow;}>
+        <div p {background-color: yellow;}>
             Line 3
         </div>
     </div>
