@@ -16,7 +16,7 @@
         background-color: cyan
     }
 </style>
-<body class="br">
+<body class="https://cf.shopee.co.th/file/a96a9357b7f54db92f7f40afa2790f7a">
     <div class="container mt-5 col-4">
         <div class="container mx-auto">
             <p class="text-center h1">สภาพอากาศ</p>
