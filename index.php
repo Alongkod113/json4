@@ -85,7 +85,7 @@
     function LoadForcast() {
         var lat = $("#Latitude").val();
         var long = $("#Longitude").val();
-        var url = "https://api.openweathermap.org/data/2.5/weather?lat=" + lat + "&lon=" + long + "&appid=d1ffd4a48d1871c9b8d00735829b6d84"
+        var url = "https://api.openweathermap.org/data/2.5/weather?lat=" + lat + "&lon=" + long + "&appid=ec51e8410775f2be680dbd8514677c26"
         $.getJSON(url)
             .done((data) => {
                 var datetime = convertHMS(data.dt);
